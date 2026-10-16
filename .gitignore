@@ -1,0 +1,8 @@
+node_modules/
+.pnpm-store/
+releases/
+preview/
+.test-home/
+test-results/
+*.tgz
+.DS_Store
